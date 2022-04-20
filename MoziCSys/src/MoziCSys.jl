@@ -1,4 +1,4 @@
-module MoziCSys
+module MoziCSy
 
 using LinearAlgebra
 
