@@ -1,2 +1,10 @@
+name = "MoziCSys"
+uuid = "6caa8793-38a2-477f-bdca-0f7426d014a4"
+authors = ["HZJ <zhuoju36@hotmail.com>"]
+version = "0.1.0"
+
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+julia = "1"
